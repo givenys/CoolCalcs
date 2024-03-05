@@ -19,3 +19,5 @@ int main()
     cout << "Sum 2 = " << d + g << endl;
     cout << "Sum All = " << a + b + d + g << endl;
 }
+
+// Это возможно конфликтная строка
